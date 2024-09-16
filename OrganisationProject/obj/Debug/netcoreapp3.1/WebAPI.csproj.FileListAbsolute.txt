@@ -1,0 +1,240 @@
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.ClientModel.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\de\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\es\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\it\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Common.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Repository.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Service.dll
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Common.pdb
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\New project\JPSolution\bin\Debug\netcoreapp3.1\Service.pdb
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.Up2Date
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.ClientModel.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.csproj.Up2Date
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\91709\Downloads\BackendProject (1)\New project\JPSolution\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

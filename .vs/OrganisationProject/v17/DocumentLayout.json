@@ -1,0 +1,710 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB82012-3A73-4473-B23A-9618E1793AB8}|..\\Repository\\Repository.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\repository\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB82012-3A73-4473-B23A-9618E1793AB8}|..\\Repository\\Repository.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\repository\\repositories\\applicationmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\OrganizationsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6F3E60-D736-4FE2-96A9-09CAE793194C}|..\\Service\\Service.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9753DC31-8D1C-438D-93D1-D1BA4EFEF726}|..\\Common\\Common.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB82012-3A73-4473-B23A-9618E1793AB8}|..\\Repository\\Repository.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6F3E60-D736-4FE2-96A9-09CAE793194C}|..\\Service\\Service.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\service\\interfaces\\iorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Repositories\\OrganizationsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\8.0.4\\buildTransitive\\netcoreapp2.0\\System.Text.Json.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\buildTransitive\\netcoreapp2.0\\System.Text.Encodings.Web.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\obj\\Debug\\netcoreapp3.1\\Common.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\obj\\Debug\\netcoreapp3.1\\Service.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Services\\LoginDetailsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Repositories\\LoginDetailsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Services\\OrganizationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\Organizations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Interfaces\\ILoginDetailsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Interfaces\\IOrganizationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Interfaces\\IOrganizationsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\UserRoleMapping Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Interfaces\\ILoginDetailsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\UserLoginDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\LoginDetailsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\LookupResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Repositories\\LookupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\Constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Services\\LookupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Repositories\\ApplicationMenuRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Interfaces\\ILookupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Interfaces\\ILookupRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Services\\Application MenuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\UserRoleMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Models\\ApplicationMenusModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\ApplicationMenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Interfaces\\IApplicationMenuService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Entities\\RoleApplicationMenuMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Interfaces\\IApplication MenuRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Common\\Common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Repository\\Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New project\\Service\\Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\controllers\\applicationmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:controllers\\applicationmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|c:\\users\\91709\\downloads\\backendproject (1)\\new project\\jpsolution\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82130CA-0E4F-4879-AF0E-4A9D39AD6FD4}|WebAPI.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDetailsService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Services\\LoginDetailsService.cs",
+              "ToolTip": "D:\\New project\\Service\\Services\\LoginDetailsService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:44:56.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Repository\\Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:43:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:38:29.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:30:54.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDetailsRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Repositories\\LoginDetailsRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Repositories\\LoginDetailsRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:48.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:27:54.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganizationsController.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "Controllers\\OrganizationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:30:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizationsModel.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\OrganizationsModel.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\OrganizationsModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:19:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:52.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "..\\Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Service\\Service.csproj",
+              "RelativeToolTip": "..\\Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T10:56:38.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrganizationsRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Repositories\\OrganizationsRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Repositories\\OrganizationsRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:26:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "..\\Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Repository\\Repository.csproj",
+              "RelativeToolTip": "..\\Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T10:57:11.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "..\\Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Common\\Common.csproj",
+              "RelativeToolTip": "..\\Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T10:57:35.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Services\\OrganizationService.cs",
+              "ToolTip": "D:\\New project\\Service\\Services\\OrganizationService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:27:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Service\\Interfaces\\IOrganizationService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IOrganizationService.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\Service\\Interfaces\\IOrganizationService.cs",
+              "RelativeToolTip": "..\\Service\\Interfaces\\IOrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:46:43.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Organizations.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\Organizations.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\Organizations.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:23:08.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:34:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\LoginDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginDetailsController.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\LoginDetailsController.cs",
+              "RelativeToolTip": "Controllers\\LoginDetailsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:37:22.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoginDetailsService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Interfaces\\ILoginDetailsService.cs",
+              "ToolTip": "D:\\New project\\Service\\Interfaces\\ILoginDetailsService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:29:17.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrganizationService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Interfaces\\IOrganizationService.cs",
+              "ToolTip": "D:\\New project\\Service\\Interfaces\\IOrganizationService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:27:24.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrganizationsRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Interfaces\\IOrganizationsRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Interfaces\\IOrganizationsRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:25:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoleMapping Model.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\UserRoleMapping Model.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\UserRoleMapping Model.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:35:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILoginDetailsRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Interfaces\\ILoginDetailsRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Interfaces\\ILoginDetailsRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:15:28.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LookupController.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "Controllers\\LookupController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:33:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserLoginDetails.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\UserLoginDetails.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\UserLoginDetails.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:00:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDetailsDto.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\LoginDetailsDto.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\LoginDetailsDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:10:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\Roles.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\Roles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:55:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "System.Text.Json.targets",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\8.0.4\\buildTransitive\\netcoreapp2.0\\System.Text.Json.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ADMIN\\.nuget\\packages\\system.text.json\\8.0.4\\buildTransitive\\netcoreapp2.0\\System.Text.Json.targets",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\8.0.4\\buildTransitive\\netcoreapp2.0\\System.Text.Json.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ADMIN\\.nuget\\packages\\system.text.json\\8.0.4\\buildTransitive\\netcoreapp2.0\\System.Text.Json.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-28T12:39:31.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApplicationMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\ApplicationMenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationMenuController.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\Controllers\\ApplicationMenuController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationMenuController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:56:22.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LookupResponse.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\LookupResponse.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\LookupResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:31:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LookupRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Repositories\\LookupRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Repositories\\LookupRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:44:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\Constants.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\Constants.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:16:40.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LookupService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Services\\LookupService.cs",
+              "ToolTip": "D:\\New project\\Service\\Services\\LookupService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:41:13.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationMenuRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Repositories\\ApplicationMenuRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:43:42.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILookupService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Interfaces\\ILookupService.cs",
+              "ToolTip": "D:\\New project\\Service\\Interfaces\\ILookupService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:41:35.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILookupRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Interfaces\\ILookupRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Interfaces\\ILookupRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:44:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Application MenuService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Services\\Application MenuService.cs",
+              "ToolTip": "D:\\New project\\Service\\Services\\Application MenuService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:46:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-06T10:57:40.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "System.Text.Encodings.Web.targets",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\buildTransitive\\netcoreapp2.0\\System.Text.Encodings.Web.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\buildTransitive\\netcoreapp2.0\\System.Text.Encodings.Web.targets",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\buildTransitive\\netcoreapp2.0\\System.Text.Encodings.Web.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\buildTransitive\\netcoreapp2.0\\System.Text.Encodings.Web.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-22T11:39:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRoleMapping.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\UserRoleMapping.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\UserRoleMapping.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:17:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationMenusModel.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\Models\\ApplicationMenusModel.cs",
+              "ToolTip": "D:\\New project\\Common\\Models\\ApplicationMenusModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:05:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:32:50.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationMenus.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\ApplicationMenus.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\ApplicationMenus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:04:19.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IApplicationMenuService.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\Interfaces\\IApplicationMenuService.cs",
+              "ToolTip": "D:\\New project\\Service\\Interfaces\\IApplicationMenuService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:45:21.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleApplicationMenuMapping.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Entities\\RoleApplicationMenuMapping.cs",
+              "ToolTip": "D:\\New project\\Repository\\Entities\\RoleApplicationMenuMapping.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:02:32.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IApplication MenuRepository.cs",
+              "DocumentMoniker": "D:\\New project\\Repository\\Interfaces\\IApplication MenuRepository.cs",
+              "ToolTip": "D:\\New project\\Repository\\Interfaces\\IApplication MenuRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:44:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Common.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\New project\\Common\\obj\\Debug\\netcoreapp3.1\\Common.GlobalUsings.g.cs",
+              "ToolTip": "D:\\New project\\Common\\obj\\Debug\\netcoreapp3.1\\Common.GlobalUsings.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:39:14.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "D:\\New project\\Common\\Common.csproj",
+              "ToolTip": "D:\\New project\\Common\\Common.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:23:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\New project\\Repository\\Repository.csproj",
+              "ToolTip": "D:\\New project\\Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:22:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAPI.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\91709\\Downloads\\BackendProject (1)\\New project\\JPSolution\\obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\netcoreapp3.1\\WebAPI.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:16:59.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Service.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\New project\\Service\\obj\\Debug\\netcoreapp3.1\\Service.GlobalUsings.g.cs",
+              "ToolTip": "D:\\New project\\Service\\obj\\Debug\\netcoreapp3.1\\Service.GlobalUsings.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:14:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\New project\\Service\\Service.csproj",
+              "ToolTip": "D:\\New project\\Service\\Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T10:24:25.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
