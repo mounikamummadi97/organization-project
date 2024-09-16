@@ -1,0 +1,86 @@
+<main class="Company-container">
+    <!-- Sidebar Navigation -->
+    <!-- <aside class="sidebar">
+      <ul>
+        <li *ngFor="let item of menuItems" (click)="selectApplication(item)" class="application-item">
+          <h3>{{ item.name }}</h3>
+        </li>
+      </ul>
+    </aside>
+      <div class="main-content">
+        <section *ngIf="selectedMenu === 'applicationDetails'" class="content-section">
+          <h2>{{ selectedApplication?.name }}</h2>
+          <p>{{ selectedApplication?.description }}</p>
+        </section> -->
+        <!-- <section *ngIf="selectedMenu === 'companyManagement'" class="content-section">
+            <button (click)="goBack()">Back to Dashboard</button>
+            <h2>Company Management</h2> 
+         -->
+         <button (click)="goBack()">Back to Dashboard</button>
+            <h2>Company Management</h2> 
+
+        
+        <div *ngIf="isAddingCompany || isEditingCompany">
+        <h3>{{ companyForm.value.id ? 'Edit Company' : 'Add New Company' }}</h3>
+        <form [formGroup]="companyForm" (ngSubmit)="saveNewCompany()" class="company-form">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="name">Name:</label>
+              <input id="name" formControlName="name" required>
+            </div> 
+
+            <div class="form-group">
+              <label for="description">Description:</label>
+              <input id="description" formControlName="description">
+            </div> 
+            <div class="form-group">
+                <label for="createdBy">CreatedBy</label>
+                <input id="createdBy" formControlName="createdBy">
+              </div>
+            
+
+          <div class="form-actions">
+            <button type="submit">Save</button>
+            <button type="button" (click)="cancelAddCompany()">Cancel</button>
+          </div>
+          </div>
+        </form>
+      </div> 
+
+      <button *ngIf="!isAddingCompany" (click)="addCompany()">Add Company</button>
+      <div class="company-table">
+        <table>
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Name</th>
+              <th>Description</th>
+              <th>Actions</th>
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let company of companyList">
+              <td>{{ company.id }}</td>
+              <td>{{ company.name }}</td>
+              <td>{{ company.description }}</td>
+               <!-- <td>{{ company.code }}</td>
+              <td>{{ company.email }}</td>
+              <td>{{ company.address }}</td>
+              <td>{{ company.website }}</td>  -->
+              <td>
+                <button (click)="editCompany(company)">Edit</button>
+                <button (click)="deleteCompany(company)">Delete</button>
+            </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+<!-- </section> -->
+<!-- </div> -->
+</main>
+    
+       
+
+
+    

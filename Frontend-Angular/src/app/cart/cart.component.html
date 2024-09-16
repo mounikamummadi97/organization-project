@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+    <link href="https://cdn.jsdelivr.net/npm/@angular/material@12.2.7/prebuilt-themes/indigo-pink.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+
+        /* button:hover{
+            transform: rotate(180deg);
+        } */
+
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            background-color: #007BFF;
+            color: #fff;
+            border-radius: 10px 10px 0 0;
+        }
+
+        .table {
+            margin-bottom: 0;
+        }
+
+        th,
+        td {
+            text-align: center;
+            vertical-align: middle !important;
+        }
+
+        .btn-danger {
+            background-color: #DC3545;
+            border-color: #DC3545;
+        }
+
+        .btn-danger:hover {
+            background-color: #C82333;
+            border-color: #C82333;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container mt-5">
+        <a routerLink="/category" routerLinkActive="active" style="text-align: end;">Continue Shopping</a>
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0">My Cart</h5>
+            </div>
+            <div class="card-body">
+                <table class="table table-stripped table-bordered mb-0">
+                    <thead>
+                        <tr>
+                            <!-- <md-button class="btn1"> Button </md-button> -->
+                            <th scope="col">Product Name</th>
+                            <th scope="col">Product Id</th>
+                            <th scope="col">Amount</th>
+                            <th scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let image of imagesFromDb; let i = index">
+                            <td>{{ image.product_Name }}</td>
+                            <td>{{ image.product_Id }}</td>
+                            <td>{{ image.price }}</td>
+                            <td>
+                                <button class="btn btn-danger" (click)="RemoveFromCart(image.product_Id)">
+                                    Remove
+                                </button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <div class="d-flex justify-content-between">
+                                <strong> Grand Total - {{calculateGrandTotal()}}</strong>
+                                <button class="btn btn-warning">Place Order</button>
+                            </div>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <p class="md-body-2">Body copy with medium weight.</p>
+    <!-- <md-button>Button</md-button> -->
+    <button mat-button class="btn1">Button</button>
+
+    <p class="md-body-1">Regular body copy <small class="md-caption">with small text</small>.</p>
+    <span class="md-caption">Caption</span>
+
+    <h1 class="md-display-3">Headline</h1>
+    <h2 class="md-display-1">Headline</h2>
+    <h3 class="md-headline">Headline</h3>
+    <!-- <md-button class="md-primary">Click me</md-button>
+<md-button class="md-accent">or maybe me</md-button>
+<md-button class="md-warn">Careful</md-button> -->
+
+    <button mat-button class="mat-primary">Click me</button>
+    <button mat-button class="mat-accent">or maybe me</button>
+    <button mat-button class="mat-warn">Careful</button>
+
+    <p>--------------------------</p>
+    <p>--------------------------</p>
+
+
+    <button mat-button class="mat-primary">Primary Button</button><br>
+    <button mat-button class="mat-accent">Accent Button</button><br>
+    <button mat-button class="mat-warn">Warn Button</button><br>
+    <button mat-button class="mat-basic">Basic Button</button><br>
+    <button mat-button class="mat-raised-button">Raised Button</button><br>
+    <button mat-button class="mat-stroked-button">Stroked Button</button><br>
+    <button mat-button class="mat-flat-button ">Flat Button</button><br>
+    <button mat-raised-button color="accent">Accent</button><br>
+    <mat-icon>menu</mat-icon> <br>
+    <button mat-icon-button class="mat-icon-button">Icon Button</button><br>
+
+
+
+
+
+    <section>
+        <div class="example-label">Icon</div>
+        <div class="example-button-row">
+            <div class="example-flex-container">
+                <button mat-icon-button aria-label="Example icon button with a vertical three dot icon">
+                    <mat-icon>more_vert</mat-icon>
+                </button>
+                <button mat-icon-button color="primary" aria-label="Example icon button with a home icon">
+                    <mat-icon>H</mat-icon>
+                </button>
+                <button mat-icon-button color="accent" aria-label="Example icon button with a menu icon">
+                    <mat-icon>menu</mat-icon>
+                </button>
+                <button mat-icon-button color="warn" aria-label="Example icon button with a heart icon">
+                    <mat-icon>favorite</mat-icon>
+                </button>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- <div class="label">Icon Button</div> -->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <button mat-fab class="mat-fab">FAB</button><br>
+    <button mat-mini-fab class="mat-mini-fab">Mini FAB</button><br>
+    <!-- Include Angular scripts (replace with the correct paths if needed) -->
+    <script src="https://cdn.jsdelivr.net/npm/angular@12.2.7/bundles/core.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/angular@12.2.7/bundles/common.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/angular@12.2.7/bundles/compiler.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/angular@12.2.7/bundles/zone.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@angular/material@12.2.7/bundles/material.umd.min.js"></script>
+</body>
+
+</html>

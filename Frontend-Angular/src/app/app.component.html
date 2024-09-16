@@ -1,0 +1,56 @@
+<style>
+  .spacer {
+    flex: 1 1 auto;
+  }
+
+  .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(62, 152, 152);
+  }
+
+  .navbar-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .navbar-buttons {
+    display: flex;
+    gap: 10px;
+  }
+
+  .navbar-button {
+    color: rgb(154, 76, 76);
+  }
+
+  .navbar-button:hover {
+    background-color: rgba(173, 87, 87, 0.1);
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+
+
+  .logout-button {
+    color: red;
+  }
+</style>
+
+<div>
+  <mat-toolbar color="primary" class="navbar-container">
+    <div class="navbar-title">JP Solutions</div>
+    <div class="navbar-buttons">
+      <button mat-button routerLink="/" class="navbar-button">Home</button>
+      <button mat-button routerLink="/about" class="navbar-button">About Us</button>
+      <button mat-button routerLink="/contact" class="navbar-button">Contact Us</button>
+      <button mat-button *ngIf="!isLoggedIn" routerLink="/login" class="navbar-button">Login</button>
+      <button mat-button *ngIf="!isLoggedIn" routerLink="/signup" class="navbar-button">Signup</button>
+      <button mat-button *ngIf="isLoggedIn" (click)="logout()" routerLink="/login"
+        class="navbar-button logout-button">Logout</button>
+    </div>
+  </mat-toolbar>
+</div>
+<div>
+  <router-outlet></router-outlet>
+</div>

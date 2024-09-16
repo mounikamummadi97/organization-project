@@ -1,0 +1,194 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 80%;
+            max-width: 800px;
+            color: #495057;
+            margin-top: 20px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .btn-block {
+            border-radius: 5px;
+            margin-bottom: 10px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .btn-block:hover {
+            background-color: #007bff;
+            color: #ffffff;
+        }
+
+        h2 {
+            color: #007bff;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        img.img-thumbnail {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        li{
+            display: inline;
+            background-color: blanchedalmond;
+            margin-top: 10px;
+        }
+
+
+        
+    </style>
+</head>
+
+<body>
+    
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-3">
+                <button class="btn btn-primary btn-block" (click)="selectOption('profile')">My Profile</button>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-primary btn-block" (click)="selectOption('products')">Products</button>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-primary btn-block" (click)="cartFun()">Cart</button>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-warning btn-block" (click)="clear()">Logout</button>
+            </div>
+
+        </div>
+
+        <div class="mt-4">
+            <ng-container *ngIf="selectedOption === 'profile'; then profile else categorypage"></ng-container>
+        </div>
+    </div>
+
+    <ng-template #profile>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Navigation</h5>
+                            <ul class="list-group">
+                                <li class="list-group-item"><a href="#profile">Profile</a></li>
+                                <li class="list-group-item"><a href="#settings">Settings</a></li>
+                                <li class="list-group-item"><a href="#activity">Activity</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8" >
+
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">User Profile</h5>
+
+                            <div id="profile">
+                                <h6>Profile Information</h6>
+                                <p>Name: john Doe</p>
+                            </div>
+
+                            <div id="settings" class="mt-4">
+                                <h6>Account Settings</h6>
+                                <p>Password: *********</p>
+                            </div>
+
+                            <div id="activity" class="mt-4">
+                                <h6>Recent Activity</h6>
+                                <ul>
+                                    <li>Logged in at 10:00 AM</li>
+                                    <li>Updated profile picture</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ng-template>
+
+    <ng-template #categorypage>
+        <div class="container">
+            <h2 class="mb-4">Categories</h2>
+            <div *ngFor="let category of categories" class="col-md-4">
+                <button class="btn btn-info btn-block mb-3"
+                    (click)="getSubcategories(category, category.category_id)">
+                    {{ category.category_Name }}
+                </button>
+            </div>
+
+            <div *ngIf="subcategories">
+                <h2 class="mt-4">Subcategories</h2>
+                <div class="row">
+                    <div *ngFor="let subcategory of subcategories" class="col-md-4">
+                        <button class="btn btn-success btn-block mb-3" (click)="catSbCat(subcategory.sub_Category_id)">
+                            {{ subcategory.sub_Category_name }}
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div *ngFor="let op of output" class="col-md-3">
+                    <img [src]="getImageUrl(op.image_path)" alt="Product Image" class="img-thumbnail mb-3" />
+                    <p>Price: ₹{{op.price}}</p>
+                    {{op.productName}}
+                    <button class="material-symbols-outlined btn  btn-success" (click)="addToCart(op.productId)">
+                        add_shopping_cart
+                    </button>
+                </div>
+            </div>
+        </div>
+    </ng-template>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
